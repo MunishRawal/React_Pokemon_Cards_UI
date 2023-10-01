@@ -1,0 +1,100 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+.p1:hover .img1{
+    bottom:0;
+    right:0;
+    width:50px;
+    height:50px;
+    transition-duration:0.3s;
+    transition-timing-function: ease-in-out;
+}
+.p1:hover .img11{
+    opacity: 0;
+}
+
+
+
+.p2:hover .img2{
+    bottom: 0px;;
+    right:0;
+    width:50px;
+    height:50px;
+    transition-duration:0.3s;
+}
+.p2:hover .img22{
+    opacity: 0;
+}
+
+.p3:hover .img3{
+    bottom: 0px;;
+    right:0;
+    width:50px;
+    height:50px;
+    transition-duration:0.3s;
+}
+.p3:hover .img33{
+    opacity:0;
+}
+
+.p4:hover .img4{
+    bottom: 0px;;
+    right:0;
+    width:50px;
+    height:50px;
+    transition-duration:0.3s;
+    
+}
+.p4:hover .img44{
+    opacity: 0;
+}
+
+.p5:hover .img5{
+    bottom: 0px;;
+    right:0;
+    width:50px;
+    height:50px;
+    transition-duration:0.3s;
+    
+}
+.p5:hover .img55{
+    opacity: 0;
+}
+
+.p6:hover .img6{
+    bottom: 0px;;
+    right:0;
+    width:50px;
+    height:50px;
+    transition-duration:0.3s;
+    
+}
+.p6:hover .img66{
+    opacity: 0;
+}
+
+.p7:hover .img7{
+    bottom: 0px;;
+    right:0;
+    width:50px;
+    height:50px;
+    transition-duration:0.3s;
+   
+}
+.p7:hover .img77{
+    opacity: 0;
+}
+
+.p8:hover .img8{
+    bottom: 0px;;
+    right:0;
+    width:50px;
+    height:50px;
+    transition-duration:0.3s;
+
+}
+.p8:hover .img88{
+    opacity: 0;
+}
